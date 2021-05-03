@@ -1,1 +1,5 @@
-# flutter_type_scale_example
+### TypeScale example
+
+This is a full example of the TypeScale widget.
+
+read more: #url#
